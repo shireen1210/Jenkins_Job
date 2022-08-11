@@ -1,4 +1,3 @@
-package firstProgram;
 
 public class simpleProg {
 
